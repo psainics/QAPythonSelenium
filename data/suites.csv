@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","2705","Open the URL and and Enter Credentials","","Thu Apr 17 06:03:02 UTC 2025","passed","Thu Apr 17 06:03:04 UTC 2025","","","",""
+"","36139","Successfully add a new employee after login","","Thu Apr 17 06:02:25 UTC 2025","failed","Thu Apr 17 06:03:02 UTC 2025","","","",""
